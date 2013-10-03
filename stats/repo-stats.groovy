@@ -16,8 +16,8 @@
  * along with Artifactory.  If not, see <http://www.gnu.org/licenses/>.
  */
  
+ import org.artifactory.repo.RepoPath
  import org.artifactory.repo.RepoPathFactory
- 
  import groovy.json.JsonBuilder
  
  /**
